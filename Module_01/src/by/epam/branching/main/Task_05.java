@@ -2,7 +2,7 @@ package by.epam.branching.main;
 
 import java.util.Scanner;
 
-// Вычислить значение функции: f(x) = x^2 - 3x +9, если x <= 3; � f(x) = 1 / (x^3 + 6), если  x > 3;
+// Вычислить значение функции: f(x) = x^2 - 3x +9, если x <= 3; и f(x) = 1 / (x^3 + 6), если  x > 3;
 
 public class Task_05 {
 
